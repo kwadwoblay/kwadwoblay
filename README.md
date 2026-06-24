@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @kwadwoblay
-- 👀 I’m interested in Coding.
-- 🌱 I’m currently learning Web Dev. and Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m just curious.
+- 🌱 I’m currently a electrical and electronics engineering student.
+- 💞️ I’m looking to learn and a study pal
+- 📫 How to reach me kkwadwo.blay on instagram
 
 <!---
 kwadwoblay/kwadwoblay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
