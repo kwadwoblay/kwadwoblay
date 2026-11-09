@@ -3,7 +3,7 @@
 Electrical and Electronic Engineering student at Accra Technical University, specializing in Systems Control.
 
 ## What I am working on
-- Control systems in Python and Octave
+- Control systems in Python
 - Breadboard circuits compared with first-order models
 - Next: MOSFET gate control and PWM motor speed control with PID
 
