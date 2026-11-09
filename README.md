@@ -11,7 +11,7 @@ Electrical and Electronic Engineering student at Accra Technical University, spe
 See my Projects repository for finished work, each with a README and photos.
 
 ## Contact
-LinkedIn: in/blay91
+[LinkedIn](www.linkedin.com/in/kwadwoblay)
 
 <!---
 kwadwoblay/kwadwoblay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
